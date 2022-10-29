@@ -71,4 +71,3 @@ wsl         https://github.com/KNOXDEV/wsl
 ```
 
 **Made with 💗 by Juliette Cordor**
-
